@@ -1,0 +1,5 @@
+Credentials cache: API:D571B4C8-884C-4F34-A736-484601D6FC0C
+        Principal: dverdini@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 25 16:50:51 2020  Nov 26 02:50:41 2020  krbtgt/42ROMA.IT@42ROMA.IT
